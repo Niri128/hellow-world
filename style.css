@@ -1,0 +1,27 @@
+body{
+  background-color:rgb(70, 0, 0);
+  color:white;
+}
+em{ 
+  color:rgb(0, 255, 21);
+}
+.blueBackground{
+  color:black;
+  width:800px;
+  background-color: royalblue ;
+  text-align:center;
+}
+#picture{
+width: 800px;
+
+}
+#container{
+  /* display:flex;
+  flex-direction: column; */
+  /* align-items: center; */
+  /* properties to center elements */
+  margin-left:300px;
+}
+ul{
+  margin:15%;
+}
